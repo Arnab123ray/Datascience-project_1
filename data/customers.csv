@@ -1,0 +1,41 @@
+customer_id,age,gender,region,product_id,product_name,product_category,browsing_minutes,pages_viewed,rating,purchase_count,purchase_amount,purchase,purchase_date
+C1001,24,Female,North,P101,Everyday Backpack,Bags,18,7,4.6,3,68,1,2025-01-08
+C1001,24,Female,North,P202,Wireless Earbuds,Electronics,9,4,4.1,3,0,0,2025-01-08
+C1002,42,Male,West,P305,Trail Running Shoes,Footwear,27,11,4.8,19,124,1,2025-01-14
+C1002,42,Male,West,P410,Insulated Bottle,Home,12,5,4.3,19,32,1,2025-01-14
+C1003,31,Female,East,P512,Soft Knit Sweater,Clothing,14,6,3.9,8,0,0,2025-01-21
+C1003,31,Female,East,P101,Everyday Backpack,Bags,21,9,4.5,8,72,1,2025-01-21
+C1004,56,Male,South,P202,Wireless Earbuds,Electronics,34,13,4.7,27,89,1,2025-01-27
+C1004,56,Male,South,P613,Desk Lamp,Home,8,3,3.8,27,0,0,2025-01-27
+C1005,28,Non-binary,West,P704,Canvas Tote,Bags,11,5,4.2,2,0,0,2025-02-04
+C1005,28,Non-binary,West,P815,Travel Mug,Home,16,7,4.6,2,28,1,2025-02-04
+C1006,37,Female,North,P305,Trail Running Shoes,Footwear,31,12,4.9,14,132,1,2025-02-11
+C1006,37,Female,North,P512,Soft Knit Sweater,Clothing,22,8,4.1,14,58,1,2025-02-11
+C1007,63,Male,East,P926,Smart Watch,Electronics,7,3,3.7,1,0,0,2025-02-18
+C1007,63,Male,East,P410,Insulated Bottle,Home,10,4,4.0,1,0,0,2025-02-18
+C1008,45,Female,South,P512,Soft Knit Sweater,Clothing,24,10,4.6,22,74,1,2025-02-25
+C1008,45,Female,South,P704,Canvas Tote,Bags,19,8,4.4,22,36,1,2025-02-25
+C1009,22,Male,West,P101,Everyday Backpack,Bags,8,3,3.6,0,0,0,2025-03-03
+C1009,22,Male,West,P613,Desk Lamp,Home,13,5,4.0,0,0,0,2025-03-03
+C1010,34,Female,East,P926,Smart Watch,Electronics,29,12,4.8,11,158,1,2025-03-10
+C1010,34,Female,East,P202,Wireless Earbuds,Electronics,25,9,4.5,11,92,1,2025-03-10
+C1011,51,Male,North,P410,Insulated Bottle,Home,15,6,4.1,16,31,1,2025-03-17
+C1011,51,Male,North,P815,Travel Mug,Home,11,4,3.9,16,0,0,2025-03-17
+C1012,29,Female,West,P305,Trail Running Shoes,Footwear,23,9,4.7,5,119,1,2025-03-24
+C1012,29,Female,West,P704,Canvas Tote,Bags,17,7,4.3,5,34,1,2025-03-24
+C1013,39,Male,South,P202,Wireless Earbuds,Electronics,12,5,3.8,9,0,0,2025-04-02
+C1013,39,Male,South,P613,Desk Lamp,Home,20,8,4.5,9,46,1,2025-04-02
+C1014,26,Female,North,P512,Soft Knit Sweater,Clothing,28,11,4.8,4,79,1,2025-04-09
+C1014,26,Female,North,P101,Everyday Backpack,Bags,15,6,4.2,4,0,0,2025-04-09
+C1015,58,Male,West,P926,Smart Watch,Electronics,17,7,4.2,31,149,1,2025-04-16
+C1015,58,Male,West,P410,Insulated Bottle,Home,9,4,3.8,31,0,0,2025-04-16
+C1016,33,Female,East,P704,Canvas Tote,Bags,10,4,3.9,6,0,0,2025-04-23
+C1016,33,Female,East,P815,Travel Mug,Home,18,8,4.7,6,29,1,2025-04-23
+C1017,47,Non-binary,South,P305,Trail Running Shoes,Footwear,36,14,4.9,25,128,1,2025-05-05
+C1017,47,Non-binary,South,P202,Wireless Earbuds,Electronics,30,12,4.6,25,96,1,2025-05-05
+C1018,20,Male,North,P101,Everyday Backpack,Bags,6,2,3.5,1,0,0,2025-05-12
+C1018,20,Male,North,P512,Soft Knit Sweater,Clothing,8,3,3.8,1,0,0,2025-05-12
+C1019,41,Female,West,P815,Travel Mug,Home,21,9,4.4,13,33,1,2025-05-19
+C1019,41,Female,West,P613,Desk Lamp,Home,16,6,4.1,13,0,0,2025-05-19
+C1020,36,Male,East,P926,Smart Watch,Electronics,26,10,4.7,17,162,1,2025-05-26
+C1020,36,Male,East,P305,Trail Running Shoes,Footwear,32,13,4.9,17,126,1,2025-05-26
